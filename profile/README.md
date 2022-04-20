@@ -1,1 +1,1 @@
-# .github
+We partner with scientists, engineers, and others worldwide to counter extinction by building advanced observation tools and interfaces for public engagement.
